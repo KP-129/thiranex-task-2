@@ -1,4 +1,4 @@
-# Alex Morgan — personal portfolio
+# Divya — personal portfolio
 
 A polished, responsive portfolio with an HTML/CSS/JavaScript frontend, a Flask API, and SQLAlchemy project storage. It uses SQLite locally for a zero-setup start and PostgreSQL when `DATABASE_URL` is configured, including on a hosted deployment.
 
@@ -33,7 +33,7 @@ Set `PROJECTS_API_TOKEN` in the environment to require an `X-API-Key` header for
 
 ## Personalize
 
-Update Alex Morgan's name, biography, email address, social links, and skills in `index.html`. Replace the sample project rows in `server.py` with your portfolio content, or add projects through the API. Keep credentials in environment variables; do not commit `.env` files or database files.
+Update the sample name, biography, email address, social links, and skills in `index.html`. Replace the sample project rows in `server.py` with your portfolio content, or add projects through the API. Keep credentials in environment variables; do not commit `.env` files or database files.
 
 ## Deploy
 
